@@ -5,7 +5,7 @@ $translations = [
         'name' => 'English',
         'nav' => [
             'home' => 'Home',
-            'contatti' => 'Contact us'
+            'contact' => 'Contact us'
         ],
         'home-page' => [
             "title" => 'Home page',
@@ -20,7 +20,7 @@ $translations = [
         'name' => 'Italiano',
         'nav' => [
             'home' => 'Home',
-            'contatti' => 'Contatti'
+            'contact' => 'Contatti'
         ],
         'home-page' => [
             "title" => 'Home pagina',

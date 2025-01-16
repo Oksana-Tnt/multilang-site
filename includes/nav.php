@@ -9,7 +9,7 @@
     </li>
     <li class="nav-item">
         <a href="contact.php?lang=<?= $lang ?>" class="nav-link">
-            <?= $translations[$lang]['nav']['contatti'] ?>
+            <?= $translations[$lang]['nav']['contact'] ?>
         </a>
     </li>
 </ul>

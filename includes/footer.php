@@ -8,7 +8,7 @@
         </li>
         <li class="nav-item">
             <a href="contact.php?lang=<?= $lang ?>" class="nav-link px-2 text-body-secondary">
-                <?= $translations[$lang]['nav']['contatti'] ?>
+                <?= $translations[$lang]['nav']['contact'] ?>
             </a>
         </li>
     </ul>
